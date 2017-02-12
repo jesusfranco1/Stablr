@@ -196,7 +196,7 @@
 				TargetAttributes = {
 					EA595C861E3C031F007BE637 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = EX67LTNEAX;
+						DevelopmentTeam = VZRJR929HJ;
 						ProvisioningStyle = Automatic;
 					};
 					EA595C9D1E3C031F007BE637 = {
@@ -417,7 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = EX67LTNEAX;
+				DEVELOPMENT_TEAM = VZRJR929HJ;
 				INFOPLIST_FILE = Stablr/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bu.Stablr;
@@ -430,7 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = EX67LTNEAX;
+				DEVELOPMENT_TEAM = VZRJR929HJ;
 				INFOPLIST_FILE = Stablr/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bu.Stablr;
@@ -512,6 +512,7 @@
 				EA595CB41E3C031F007BE637 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA595CB51E3C031F007BE637 /* Build configuration list for PBXNativeTarget "StablrTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +521,7 @@
 				EA595CB71E3C031F007BE637 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA595CB81E3C031F007BE637 /* Build configuration list for PBXNativeTarget "StablrUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +530,7 @@
 				EA595CBA1E3C031F007BE637 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
